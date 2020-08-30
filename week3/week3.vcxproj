@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Documents\lab03_02.cpp" />
     <ClCompile Include="..\..\..\..\Documents\lab03_01.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\palindrome.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
