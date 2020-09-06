@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-int main3() {
+int main2() {
 	int a = 1, i, sum;
 	printf("1 ");
 	while (a <= 10000) {

@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-int main() {
+int main3() {
 	unsigned long long a, b, palindrome = 0;
 	unsigned long long  m = 0, d = 0;
 	for (int j = 900; j < 1000; j++) {
